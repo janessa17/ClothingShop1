@@ -17,7 +17,7 @@ Identifiable {
     
 }
 var productList = [Product(price: 49, name: "White long sleeve", image: "clothing1"),
-                   Product(price: 49, name: "White ruffle long sleeve", image: "clothing2"),
+                   Product(price: 49, name: "ruffle long sleeve", image: "clothing2"),
                    Product(price: 69, name: "Jean jacket", image: "clothing3"),
                    Product(price: 69, name: "White blazer", image: "clothing4"),
                    Product(price: 89, name: "Button up dress", image: "clothing5"),

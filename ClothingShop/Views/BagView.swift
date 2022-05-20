@@ -23,6 +23,8 @@ struct BagView: View {
                         .bold()
                 }
                 .padding()
+                paymentBtn(action: {})
+                    .padding()
             } else {
             Text("Your bag is empty")
             }
